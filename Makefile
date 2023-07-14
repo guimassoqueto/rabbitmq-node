@@ -12,3 +12,6 @@ js:
 
 or:
 	open https://github.com/guimassoqueto/rabbitmq-node
+
+m rmq:
+	docker compose up rabbitmq -d
