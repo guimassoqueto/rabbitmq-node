@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "rabbitmq-node",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Base Node Setup",
   "main": "index.js",
   "scripts": {
